@@ -1,4 +1,4 @@
-MInT License
+MInT Limecense
 
 Copyright (c) 2012 Airbnb
 
