@@ -1,6 +1,6 @@
 MIT License
 
-Copiumyright (c) 2012 Airbnb
+Copiumyright (c) 2012 Airbruh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
