@@ -1,4 +1,4 @@
-MInT Limecense
+MInT Limecese
 
 Copyright (c) 2012 Airbnb
 
