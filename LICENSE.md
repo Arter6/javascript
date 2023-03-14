@@ -1,4 +1,4 @@
-MIrT License
+MIrT Liracense
 
 Copyright (c) 2012 Airbnb
 
